@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Pranayjit Mahata 👋
 
-<!--
-**Pranayjit-Mahata/Pranayjit-Mahata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transforming my background in enterprise information systems into cutting-edge AI/ML engineering. I am currently deep-diving into the mathematical foundations, core algorithms, and deep neural architectures of modern artificial intelligence.
 
-Here are some ideas to get you started:
+- 🎓 **Education:** M.Tech in AI/ML from BITS Pilani (WILP) | B.Tech in Information Technology
+- 💼 **Current Role:** LabWare LIMS Developer at Cognizant
+- 🎯 **Targeting:** Software Engineering (SWE-ML) & Machine Learning Engineering Roles
+- 🛠️ **Tech Stack Focus:** Python | PyTorch | TensorFlow | Scikit-Learn | SQL | Core Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 What I'm Learning Right Now
+- 📐 **Mathematics for ML:** Optimization, Matrix operations, Vector Spaces, & Multi-variable Calculus.
+- 📊 **Statistical Methods:** Hypothesis testing, Bayesian inference, & A/B testing logic.
+- 🧠 **Deep Learning:** Building and optimizing Deep Neural Networks (DNNs) from first principles.
+
+## 🚀 Active Repositories (Coming Soon)
+- 🔹 `bits-mtech-ai-ml` — My coursework implementations, math proofs in Python, and deep learning models.
+- 🔹 `leetcode-dsa-tracker` — Daily algorithmic problem-solving log using Python.

@@ -10,6 +10,7 @@ Transforming my background in enterprise information systems into cutting-edge A
 ## 📚 What I'm Learning Right Now
 - 📐 **Mathematics for ML:** Optimization, Matrix operations, Vector Spaces, & Multi-variable Calculus.
 - 📊 **Statistical Methods:** Hypothesis testing, Bayesian inference, & A/B testing logic.
+- 🤖 **Machine Learning:** Classical algorithms, feature engineering, and ensemble methods from scratch.
 - 🧠 **Deep Learning:** Building and optimizing Deep Neural Networks (DNNs) from first principles.
 
 ## 🚀 Active Repositories (Coming Soon)

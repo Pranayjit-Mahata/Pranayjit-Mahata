@@ -12,7 +12,3 @@ Transforming my background in enterprise information systems into cutting-edge A
 - 📊 **Statistical Methods:** Hypothesis testing, Bayesian inference, & A/B testing logic.
 - 🤖 **Machine Learning:** Classical algorithms, feature engineering, and ensemble methods from scratch.
 - 🧠 **Deep Learning:** Building and optimizing Deep Neural Networks (DNNs) from first principles.
-
-## 🚀 Active Repositories (Coming Soon)
-- 🔹 `bits-mtech-ai-ml` — My coursework implementations, math proofs in Python, and deep learning models.
-- 🔹 `leetcode-dsa-tracker` — Daily algorithmic problem-solving log using Python.
